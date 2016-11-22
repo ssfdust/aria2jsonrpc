@@ -1,0 +1,7 @@
+# 2014-04-26
+* added support for secret RPC token
+* preemptively removed support for HTTP digest authentication
+
+# 2013-11-24
+* moved reusable code from a2jrg to module
+* added a2jrg-scrape
